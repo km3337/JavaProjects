@@ -1,0 +1,96 @@
+	 	 	 	 Bowling Scores
+===============================================
+ ||||=||||=||||=||||=||||=||||=||||=||||=|||| 
+===============================================
+This group is valid.
+Group#: 1
+Score 1: 
+141-- Very Good Game.
+Score 2: 
+200-- Excellent Game!
+Score 3: 
+300-- Professional Game!!!
+Average Score:215
+215-- Excellent Game!
+
+
+Score 1 is invalid.
+500 is out of the 0-300 range.
+Score 2 is invalid.
+600 is out of the 0-300 range.
+Score 3 is invalid.
+800 is out of the 0-300 range.
+This group is invalid.
+
+Score 1 is invalid.
+-123 is out of the 0-300 range.
+Score 2 is invalid.
+-8 is out of the 0-300 range.
+This group is invalid.
+
+This group is valid.
+Group#: 4
+Score 1: 
+118-- Good Game.
+Score 2: 
+217-- Excellent Game!
+Score 3: 
+285-- Professional Game!!!
+Average Score:208
+208-- Excellent Game!
+
+
+This group is valid.
+Group#: 5
+Score 1: 
+219-- Excellent Game!
+Score 2: 
+120-- Good Game.
+Score 3: 
+300-- Professional Game!!!
+Average Score:213
+213-- Excellent Game!
+
+
+This group is valid.
+Group#: 6
+Score 1: 
+174-- Very Good Game.
+Score 2: 
+153-- Very Good Game.
+Score 3: 
+235-- Excellent Game!
+Average Score:188
+188-- Very Good Game.
+
+
+This group is valid.
+Group#: 7
+Score 1: 
+32-- Horrible Game. Shame.
+Score 2: 
+214-- Excellent Game!
+Score 3: 
+120-- Good Game.
+Average Score:122
+122-- Good Game.
+
+
+This group is valid.
+Group#: 8
+Score 1: 
+210-- Excellent Game!
+Score 2: 
+110-- Good Game.
+Score 3: 
+100-- Good Game.
+Average Score:140
+140-- Very Good Game.
+
+
+Total amount of processed Groups: 8
+Amount of Invalid Groups: 2
+Amount of Valid Groups: 6
+===============================================
+ ||||=||||=||||=||||=||||=||||=||||=||||=|||| 
+===============================================

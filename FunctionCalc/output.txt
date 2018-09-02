@@ -1,0 +1,23 @@
+	Kristian Mentor's  Function Table
+X/Input 	  Y/Result 	  Positive/Negative
+====================================================
+-3.0		   -5.6833	   Y IS NEGATIVE
+-2.5		   -7.4630	   Y IS NEGATIVE
+-2.0		  -10.9547	   Y IS NEGATIVE
+-1.5		  -25.6905	   Y IS NEGATIVE
+-1.0		   -3.3333	   Y IS NEGATIVE
+-0.5		    0.9784	   Y IS POSITIVE
+0.0		    2.0000	   Y IS POSITIVE
+0.5		    0.6988	   Y IS POSITIVE
+1.0		   -1.6667	   Y IS NEGATIVE
+1.5		   -8.5635	   Y IS NEGATIVE
+2.0		   -2.1909	   Y IS NEGATIVE
+2.5		   -0.6785	   Y IS NEGATIVE
+3.0		    0.0000	   Y IS ZERO
+3.5		    0.3513	   Y IS POSITIVE
+4.0		    0.5426	   Y IS POSITIVE
+The closest number to 10 was yielded by X= 0.0
+The output, Y=2.0, was 8.0 digits away from 10.
+Amount of Positive results: 5
+Amount of Negative Results: 9
+Amount of Zero Results: 1

@@ -1,0 +1,40 @@
+	 	 	 	Exam Statistics
+=================================================
+ID: 2041
+45 Correct 0 Incorrect
+Total Answered: 45
+Amount of questions Omitted: 5
+Grade Received: 90/100
+More correct answers than wrong answers.
+Correct Answer percentage:  1.000 
+Less than 10 questions Omitted.
+=================================================
+ID: 1012
+49 Correct 1 Incorrect
+Total Answered: 50
+Amount of questions Omitted: 0
+Grade Received: 98/100
+More correct answers than wrong answers.
+Correct Answer percentage:  0.980 
+Less than 10 questions Omitted.
+=================================================
+ID: 5141
+9 Correct 29 Incorrect
+Total Answered: 38
+Amount of questions Omitted: 12
+Grade Received: 18/100
+More wrong answers than correct answers.
+Correct Answer percentage:  0.237 
+10 or more questions omitted.
+=================================================
+ID: 2919
+18 Correct 18 Incorrect
+Total Answered: 36
+Amount of questions Omitted: 14
+Grade Received: 36/100
+Equal amount of correct and wrong answers.
+Correct Answer percentage:  0.500 
+10 or more questions omitted.
+=================================================
+The highest grade was 98/100, scored by Student ID#1012
+The highest percentage was 1.000, scored by Student ID#2041

@@ -1,0 +1,56 @@
+    __ __    __  ___          ______            __                   __           __                
+   / //_/   /  |/  /         / ____/  ____ _   / /  _____  __  __   / /  ____ _  / /_  ____    _____
+  / ,<     / /|_/ /         / /      / __ `/  / /  / ___/ / / / /  / /  / __ `/ / __/ / __ \  / ___/
+ / /| |   / /  / /         / /___   / /_/ /  / /  / /__  / /_/ /  / /  / /_/ / / /_  / /_/ / / /    
+/_/ |_|  /_/  /_/          \____/   \__,_/  /_/   \___/  \__,_/  /_/   \__,_/  \__/  \____/ /_/     
+                                                                                                    
+	===============================================================================
+
+Please enter an operation to carry out: X
+Enter two Integers: 
+100 , 101 Maximum = 101
+
+Please enter an operation to carry out: X
+Enter two Integers: 
+-101 , 1 Maximum = 1
+
+Please enter an operation to carry out: X
+Enter two Integers: 
+0 , -201 Maximum = 0
+
+Please enter an operation to carry out: X
+Enter two Integers: 
+-400 , -1 Maximum = -1
+
+Please enter an operation to carry out: M
+Enter two integers: 
+-41 , 4 Minimum = -41
+
+Please enter an operation to carry out: M
+Enter two integers: 
+30 , -5 Minimum = -5
+
+Please enter an operation to carry out: M
+Enter two integers: 
+81 , 18 Minimum = 18
+
+Please enter an operation to carry out: M
+Enter two integers: 
+-11 , -12 Minimum = -12
+
+Please enter an operation to carry out: S
+Enter one Integer to be Squared:  
+4^2 =16
+
+Please enter an operation to carry out: S
+Enter one Integer to be Squared:  
+-6^2 =36
+
+Please enter an operation to carry out: S
+Enter one Integer to be Squared:  
+0^2 =0
+
+Please enter an operation to carry out: Q
+
+
+Exiting Calculator.
